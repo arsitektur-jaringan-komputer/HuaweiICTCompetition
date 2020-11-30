@@ -30,3 +30,17 @@ Berikut ini adalah beberapa materi yang perlu diperhatikan dan untuk detailnya d
   * DHCP
   * AP Online
   * Configuration and Delivery
+
+## Instalasi eNSP
+
+Enterprise Network Simulation Platform (eNSP) adalah sebuah simulasi jaringan yang dikembangkan oleh Huawei. eNSP hampir sama dengan GNS3 ataupun Cisco Packet Tracer yang bertujuan mengenalkan peserta dengan simulasi pembentukan jaringan. Dalam eNSP sebagian besar produk yang digunakan adalah buatan Huawei. Untuk tahap instalasinya menggunakan bantuan Orcale VM VirtualBox dan menggunakan sistem operasi Windows. Untuk lebih lengkapnya dapat melihat tabel dibawah ini.
+
+| Item | Minimum Configuration | Recommended Configuration |
+| :--- | :-------------------: | :-----------------------: |
+| CPU | Dual-core 2.Ghz of faster | Intel i5 or above|
+| Memory (GB) | 4 | 8 or above|
+| Free disk space (GB) | 10 | 20 or above|
+| Operating System | Windows 10 | Windows 7 (recommended) |
+| VirtualBox | VirtualBox 5.2.28 or 5.2.30 | VirtualBox 4.2.3 or above|
+
+Untuk pembelajaran, dianjurkan menggunakan PC dengan sistem operasi Windows 7 dengan memory 8 GB. Untuk tahap ini akan lebih dijelaskan pada halaman [instalasi eNSP](instalasi-ensp.md)
