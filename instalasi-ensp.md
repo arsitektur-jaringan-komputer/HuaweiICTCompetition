@@ -1,4 +1,7 @@
 # Instalasi eNSP
+
+![eNSP|big](images/eNSP.png)
+
 Sebelum melakukan proses install, ada beberapa file yang diperlukan antara lain,
 * eNSP installation package
 * USG6000V package
