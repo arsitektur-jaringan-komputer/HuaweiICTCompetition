@@ -6,7 +6,7 @@ Sebelum melakukan proses install, ada beberapa file yang diperlukan antara lain,
 * eNSP installation package
 * USG6000V package
 * Hedex installation package
-* VirtualBox 5.2.30
+* VirtualBox 5.2.28
 * Wireshark
 * WinPcap
 
